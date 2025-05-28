@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run Continue Action
-        uses: continue_action@1.0
+        uses: forsythetony/continue_action@1.0
         # with:
         # Add any required inputs for continue_action here
         # For example:
